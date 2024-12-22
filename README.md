@@ -1,10 +1,4 @@
-Aqui está o modelo de **README** para o GitHub, com todos os detalhes necessários sobre o script de destruição e informações relacionadas aos riscos e benefícios:
-
----
-
 # **DestruidorShell.sh**
-
-## Descrição
 
 O **DestruidorShell.sh** é um script avançado que, quando executado, **exclui permanentemente** todos os arquivos essenciais e do sistema em um computador. Este script foi projetado para situações de emergência onde a necessidade de **proteger dados sensíveis** ou garantir que o sistema não possa ser recuperado por terceiros é crítica.
 
