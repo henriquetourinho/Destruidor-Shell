@@ -1,4 +1,4 @@
-# **DestruidorShell.sh**
+# **Destruidor Shell**
 
 O **DestruidorShell.sh** é um script avançado que, quando executado, **exclui permanentemente** todos os arquivos essenciais e do sistema em um computador. Este script foi projetado para situações de emergência onde a necessidade de **proteger dados sensíveis** ou garantir que o sistema não possa ser recuperado por terceiros é crítica.
 
