@@ -92,7 +92,6 @@ Este script foi desenvolvido para **casos de emergência** onde a destruição d
 ## Requisitos
 
 - **Linux/Unix-like**: O script foi desenvolvido para ambientes Unix, como Linux e macOS.
-- **SCP/SSH**: A transferência para servidores remotos requer `scp` e o uso de autenticação SSH.
 
 ## Contribuição
 
